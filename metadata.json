@@ -1,0 +1,8 @@
+{
+  "name": "Remix Media Pembelajaran Interaktif IPS: Aktivitas Memenuhi Kebutuhan",
+  "description": "Media pembelajaran interaktif IPS Kelas VII berbasis Problem Based Learning (PBL) dan TPACK dengan games edukasi, simulasi prioritas kebutuhan, LKPD digital, dan evaluasi interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
